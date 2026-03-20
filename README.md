@@ -28,7 +28,7 @@ Tiny Tapeout 4 - working with an HDL: https://www.youtube.com/watch?v=KbWb6xd9jF
 
 From the [verilog template](https://github.com/TinyTapeout/ttsky-verilog-template), copy the github repository by clicking the "Use this template" and then the "Create a new repository". 
 
-![[Pasted image 20260319192827.png]]
+!(/Project_Images/Github_Images/Pasted image 20260319192827.png)
 
 On the "Create a new repository" Page:
 1. Name the repository
