@@ -28,40 +28,40 @@ Standalone installation (select required setup): https://git-scm.com/install/win
 
 When downloaded, follow the installation setup accordingly. 
 
-Select Next: 
+Select Next: \
 ![](https://github.com/TrentReuben/ttsky-3020t-4-array-multiplier/blob/main/Project_Images/Test%20_Folder/Pasted%20image%2020260320105209.png)
 
-Select Next:
+Select Next: \
 ![](https://github.com/TrentReuben/ttsky-3020t-4-array-multiplier/blob/main/Project_Images/Test%20_Folder/Pasted%20image%2020260320105250.png)
 
-Select an appropriate editor, and select Next:
+Select an appropriate editor, and select Next: \
 ![](https://github.com/TrentReuben/ttsky-3020t-4-array-multiplier/blob/main/Project_Images/Test%20_Folder/Pasted%20image%2020260320105328.png)
 
-Select Next (or Override the branch name and select Next (Optional)):
+Select Next (or Override the branch name and select Next (Optional)): \
 ![](https://github.com/TrentReuben/ttsky-3020t-4-array-multiplier/blob/main/Project_Images/Test%20_Folder/Pasted%20image%2020260320105614.png)
 
-Leave as is for recommended for PATH, select Next: 
+Leave as is for recommended for PATH, select Next: \
 ![](https://github.com/TrentReuben/ttsky-3020t-4-array-multiplier/blob/main/Project_Images/Test%20_Folder/Pasted%20image%2020260320105715.png)
 
-Select Next:
+Select Next: \
 ![](https://github.com/TrentReuben/ttsky-3020t-4-array-multiplier/blob/main/Project_Images/Test%20_Folder/Pasted%20image%2020260320105802.png)
 
-Select Next:
+Select Next: \
 ![](https://github.com/TrentReuben/ttsky-3020t-4-array-multiplier/blob/main/Project_Images/Test%20_Folder/Pasted%20image%2020260320105832.png)
 
-Select Next:
+Select Next: \
 ![](https://github.com/TrentReuben/ttsky-3020t-4-array-multiplier/blob/main/Project_Images/Test%20_Folder/Pasted%20image%2020260320105856.png)
 
-Select default Console Window (cmd), select Next:
+Select default Console Window (cmd), select Next: \
 ![](https://github.com/TrentReuben/ttsky-3020t-4-array-multiplier/blob/main/Project_Images/Test%20_Folder/Pasted%20image%2020260320105930.png)
 
-Select Next:
+Select Next: \
 ![](https://github.com/TrentReuben/ttsky-3020t-4-array-multiplier/blob/main/Project_Images/Test%20_Folder/Pasted%20image%2020260320110009.png)
 
-Select Next:
+Select Next: \
 ![](https://github.com/TrentReuben/ttsky-3020t-4-array-multiplier/blob/main/Project_Images/Test%20_Folder/Pasted%20image%2020260320110031.png)
 
-Select Install:
+Select Install: \
 ![](https://github.com/TrentReuben/ttsky-3020t-4-array-multiplier/blob/main/Project_Images/Test%20_Folder/Pasted%20image%2020260320110059.png)
 
 ## Docker
