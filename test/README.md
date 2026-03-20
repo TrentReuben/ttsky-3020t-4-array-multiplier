@@ -81,6 +81,7 @@ Additional Help (Ref: BTNHD on Youtube): [Docker Desktop on Windows: Install & F
 ![](https://github.com/TrentReuben/ttsky-3020t-4-array-multiplier/blob/main/Project_Images/Test%20_Folder/docker.png)
 
 5. When restarted, docker will launch automatically.
+
 ![](https://github.com/TrentReuben/ttsky-3020t-4-array-multiplier/blob/main/Project_Images/Test%20_Folder/docker2.png)
 
 6. Accept the terms and conditions.
