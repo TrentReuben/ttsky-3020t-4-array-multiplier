@@ -248,5 +248,5 @@ Enter a foler : cd "folder name"
 ## Hardening a Tiny Tapout Project Locally
 
 Source: https://www.tinytapeout.com/guides/local-hardening/
-
+- Before hardening your project locally, Docker Desktop must be launched to run Librelane
 - The source above defines how to test and locally harden the project once the prerequisites are installed and Ubuntu/WSL is setup accordingly. This information is also constantly updated hence not provided here based on any changes. 
